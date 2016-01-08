@@ -1,1 +1,2 @@
-(functioin(){console.log('hello world')})();
+(functioin(){console.log('hello world')})()
+;
